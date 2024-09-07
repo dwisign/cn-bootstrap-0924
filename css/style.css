@@ -1,0 +1,13 @@
+.brandColor{
+    background: #DD3F57;
+}
+
+.btn-brand{
+    background: #DD3F57;
+    color: #fff;
+}
+
+.btn-brand:hover{
+    background: #f26177;
+    color: #fff;
+}
